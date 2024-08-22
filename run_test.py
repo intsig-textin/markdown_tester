@@ -59,7 +59,9 @@ def main():
     parser = argparse.ArgumentParser(description="请输入文件路径")
     parser.add_argument('--pred_path', type=str, default='dataset/pred', help='预测值文件')
     parser.add_argument('--gt_path', type=str, default='dataset/gt', help='真值文件')
+    parser.add_argument('--out', type=str, default='output', help='评测结果存放目录')
     args = parser.parse_args()
+
     total = create_dict_from_folders(args.pred_path)
     for total_key in total:
         current = {
@@ -106,8 +108,10 @@ def main():
 
     df = pd.DataFrame(total)
     print(df.to_string())
-    create_radar_chart(df.transpose(), 'performance test results', 'performance_test_results.png')
-    df.to_excel('performance_test_results.xlsx', index=True)
+    if not os.path.exists(args.out):
+        os.makedirs(args.out)
+    create_radar_chart(df.transpose(), 'performance test results', os.path.join(args.out, 'performance_test_results.png'))
+    df.to_excel(os.path.join(args.out, 'performance_test_results.xlsx'), index=True)
 
 
 if __name__ == "__main__":
