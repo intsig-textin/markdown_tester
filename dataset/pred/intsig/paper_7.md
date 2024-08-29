@@ -1,8 +1,10 @@
 <!-- ADMINISTRATIVE TRIBUNE  -->
 
-我国政府预算绩效管理的发展趋向和优化路径
+2023年第1期 总第175期行政论坛87
 
-焦方义李婷7（1．黑龙江大学a．经济与工商管理学院；b．法学院，黑龙江哈尔滨150080；
+## 我国政府预算绩效管理的发展趋向和优化路径
+
+焦方义“李婷1b，2（1．黑龙江大学a．经济与工商管理学院；b．法学院，黑龙江哈尔滨150080；
 
 2．财政部黑龙江监管局，黑龙江哈尔滨150010）
 
@@ -14,11 +16,11 @@ DOI:10.16637/j.cnki.23-1360/d.2023.01.017
 
 中图分类号：D63；F812.3 文献标志码：A 文章编号：1005-460X（2023）01-0087-07
 
-预算是财政的基石，对于确定政府职能和政策、各部门权责有着重要的参考价值，贯穿政府行政过程的始终，是国家治理的重要支撑手段。政府预算绩效管理与国家治理体系和治理能力现代化息息相关，是完善预算管理制度和转变政府职能的重要举措11。首先，在权责划分上，绩效预算是判断政府是否能够承担某一职责的重要手段。其次，在行政评价上，绩效预算是评价政府行政效能的重要技术支撑。政府预算绩效管理以财政支出的结果为依据，构建绩效目标设定、监控、评价与监督系统，不仅意味着对支出结果的考察，而且是评估绩效项目是否有价值的重要依据。最后，在行政决策上，绩效预算是政府进行行政决策的重要参考依据，可以有效促进行政决策的科学性和有效性。
+预算是财政的基石，对于确定政府职能和政策、各部门权责有着重要的参考价值，贯穿政府行政过程的始终，是国家治理的重要支撑手段。政府预算绩效管理与国家治理体系和治理能力现代化息息相关，是完善预算管理制度和转变政府职能的重要举措［1］。首先，在权责划分上，绩效预算是判断政府是否能够承担某一职责的重要手段。其次，在行政评价上，绩效预算是评价政府行政效能的重要技术支撑。政府预算绩效管理以财政支出的结果为依据，构建绩效目标设定、监控、评价与监督系统，不仅意味着对支出结果的考察，而且是评估绩效项目是否有价值的重要依据。最后，在行政决策上，绩效预算是政府进行行政决策的重要参考依据，可以有效促进行政决策的科学性和有效性。
 
 政府预算绩效管理是目标导向和结果导向的有机结合，在此基础上，政府部门通过政府预算绩效管理工作，制定战略规划，明确资金分配，使行政决策建立在科学的、真实的决策信息之上。随着时代的发展，我国政府预算绩效管理进入从探索向实
 
-施的转变阶段［2］。2018年，《中共中央国务院关于全面实施预算绩效管理的意见》（以下简称《意见》）提出，“加快建成全方位、全过程、全覆盖的预算绩效管理体系”；2022年，党的二十大报告明确指出，要“健全现代预算制度”。当前，我国正处于实施供给侧结构性改革的重要阶段，财政收入增速的放缓与其支出的刚性增长之间的矛盾等，使得政府预算绩效管理已不再仅仅是一种对支出效率进行评估的工具，而是国家治理现代化的重要机制，其符合国家治理现代化的基本取向和运行方式，发挥着推进国家治理现代化的关键点和突破口的作用［3］18［41。在此背景下，基于政府预算绩效管理的理论研究与实践探索，总结政府预算绩效管理的发展趋向，剖析政府预算绩效管理中存在的问题，探寻政府预算绩效管理的优化路径，具有一定的必要性和紧迫性。
+施的转变阶段［2］。2018年，《中共中央国务院关于全面实施预算绩效管理的意见》（以下简称《意见》）提出，“加快建成全方位、全过程、全覆盖的预算绩效管理体系”；2022年，党的二十大报告明确指出，要“健全现代预算制度”。当前，我国正处于实施供给侧结构性改革的重要阶段，财政收入增速的放缓与其支出的刚性增长之间的矛盾等，使得政府预算绩效管理已不再仅仅是一种对支出效率进行评估的工具，而是国家治理现代化的重要机制，其符合国家治理现代化的基本取向和运行方式，发挥着推进国家治理现代化的关键点和突破口的作用[3]18,[4]。在此背景下，基于政府预算绩效管理的理论研究与实践探索，总结政府预算绩效管理的发展趋向，剖析政府预算绩效管理中存在的问题，探寻政府预算绩效管理的优化路径，具有一定的必要性和紧迫性。
 
 ## 一、政府预算绩效管理的理论研究与实践探索
 
@@ -44,7 +46,7 @@ DOI:10.16637/j.cnki.23-1360/d.2023.01.017
 
 因为绩效预算制度在我国属于“移植”而来的制度，所以在建立与发展的过程中无疑会产生一些“水土不服”的问题。有学者提出，通过多中心治理理论在政府预算绩效管理中的应用，能够解决政府全面实施预算绩效管理中的搭便车问题、政府失灵问题、“X-低效率”与官僚行为理论问题［9］。有研究提出，
 
-相比于西方预算体制，我国预算体制在发展阶段、面临问题以及环境方面与之存在差异，应先建立“控制取向”的部门预算和国库管理体制后再推行绩效预算［10］。有学者结合我国的实际情况，提出“政府预算绩效管理改革宜采取＊流程再造，整体设计，积极试点，分步实施＇的推进思路，进一步做好预算资金编制环节的绩效管理工作，对财政支出进行流程再造，建立预算绩效管理总体框架”［n］，同时，强调对财政资金绩效管理的全面规划，建立规范的项目绩效预算等。
+相比于西方预算体制，我国预算体制在发展阶段、面临问题以及环境方面与之存在差异，应先建立“控制取向”的部门预算和国库管理体制后再推行绩效预算［10］。有学者结合我国的实际情况，提出“政府预算绩效管理改革宜采取＇流程再造，整体设计，积极试点，分步实施＇的推进思路，进一步做好预算资金编制环节的绩效管理工作，对财政支出进行流程再造，建立预算绩效管理总体框架”［］，同时，强调对财政资金绩效管理的全面规划，建立规范的项目绩效预算等。
 
 ### （二）政府预算绩效管理的实践探索
 
@@ -58,11 +60,11 @@ DOI:10.16637/j.cnki.23-1360/d.2023.01.017
 
 自2003年党的十六届三中全会提出“建立预算绩效评价体系”以来，我国政府预算绩效管理试点拉
 
-开帷幕。2003年，北京市、广东省等地开始试点建立重点项目支出绩效评价；2004年，山西省对三项资金开展评价试点工作；2008年，福建省等地开始试点工作并积累了一定经验；2011年，依据党中央的要求，受国务院委托，原监察部牵头建立了政府绩效管理工作部际联席会议制度，此后，财政部逐步完善政府预算绩效管理制度体系 3]42-43，推动绩效管理由事后向事前、事中拓展，推进了全过程政府预算绩效管理的实施；2011-2018年间，江苏、海南等省份开展了事前绩效目标评价，云南、湖北等省份开展了整体支出绩效评价试点，广东、浙江、湖北等省份在促进绩效评价结果应用方面作出了有益探索［3］43。
+开帷幕。2003年，北京市、广东省等地开始试点建立重点项目支出绩效评价；2004年，山西省对三项资金开展评价试点工作；2008年，福建省等地开始试点工作并积累了一定经验；2011年，依据党中央的要求，受国务院委托，原监察部牵头建立了政府绩效管理工作部际联席会议制度，此后，财政部逐步完善政府预算绩效管理制度体系［3］42-43，推动绩效管理由事后向事前、事中拓展，推进了全过程政府预算绩效管理的实施；2011-2018年间，江苏、海南等省份开展了事前绩效目标评价，云南、湖北等省份开展了整体支出绩效评价试点，广东、浙江、湖北等省份在促进绩效评价结果应用方面作出了有益探索［3］43。
 
 #### 3．政府预算绩效管理的制度保障
 
-政府预算和绩效信息公开是实现政府预算绩效管理，特别是公众广泛参与评价的重要基础。自2015年1月1日《预算法》实施以来，各级政府、各部门、各单位逐步将绩效信息公开作为政府预决算信息公开的重要内容之一。如中央部门本级重点项目绩效目标报送全国人大常委会的范围自2017年以来，从10个增加到36个、50个和75个［3］55。随同决算报送全国人大的项目绩效自评结果从2017年的111个大幅增加到2021年的493个，财政和部门绩效评价结果从2016年的5个增加到2021年的29个［3］53。2021年，101个中央部门随同部门决算公开了434个项目绩效自评表和101个项目绩效评价报告［3］53。地方预算绩效信息公开进展同样迅速。以2018年绩效信息公开为例，绝大多数省份均组织向同级人大公开了预算绩效信息并向社会公开，31个省份公开了绩效目标，29个省份公开了自评、绩效评价结果，河北等20多个省份将部门省本级项目支出、专项资金、省对下转移支付绩效目标及重点绩效评价报告提交省级人大常委会审议或参阅，北京市、黑龙江省、宁夏回族自治区公开了所有省本级项目绩效目标和绩效自评结果，四川等16个省份公开重点项目绩效评价报告，部分省份将省级财政部门牵头开展的重点绩效评价报告全部向社会公开［3］53。
+政府预算和绩效信息公开是实现政府预算绩效管理，特别是公众广泛参与评价的重要基础。自2015年1月1日《预算法》实施以来，各级政府、各部门、各单位逐步将绩效信息公开作为政府预决算信息公开的重要内容之一。如中央部门本级重点项目绩效目标报送全国人大常委会的范围自2017年以来，从10个增加到36个、50个和75个［3］53。随同决算报送全国人大的项目绩效自评结果从2017年的111个大幅增加到2021年的493个，财政和部门绩效评价结果从2016年的5个增加到2021年的29个［3］53。2021年，101个中央部门随同部门决算公开了434个项目绩效自评表和101个项目绩效评价报告［3］53。地方预算绩效信息公开进展同样迅速。以2018年绩效信息公开为例，绝大多数省份均组织向同级人大公开了预算绩效信息并向社会公开，31个省份公开了绩效目标，29个省份公开了自评、绩效评价结果，河北等20多个省份将部门省本级项目支出、专项资金、省对下转移支付绩效目标及重点绩效评价报告提交省级人大常委会审议或参阅，北京市、黑龙江省、宁夏回族自治区公开了所有省本级项目绩效目标和绩效自评结果，四川等16个省份公开重点项目绩效评价报告，部分省份将省级财政部门牵头开展的重点绩效评价报告全部向社会公开［3］58。
 
 ## 二、政府预算绩效管理的发展趋向
 
@@ -106,7 +108,7 @@ DOI:10.16637/j.cnki.23-1360/d.2023.01.017
 
 从政府预算绩效管理评价体系上说，目前我国部分地区或部门尚未建立科学、系统的预算绩效指标体系。
 
-1．目标的规范性有待提高。首先，绩效目标设定不够完善，部分资金没有按照要求设定绩效目标。2018年政府性基金预算、国有资本经营预算中有402.65亿元未设立绩效目标，1个投资专项未填报绩效目标表［16］。其次，部分绩效指标没有细化、量化。2020年，17个部门和245家所属单位的587个项目绩效目标不完整、未经细化或脱离实际情况［1］。最后，绩效目标管理程序不规范，部分绩效目标未按要求审核。2018年，9个项目量化指标超出项目内容或低于已完成情况；12项专项转移支付的绩效目标未与预算同步下达。［16］
+1．目标的规范性有待提高。首先，绩效目标设定不够完善，部分资金没有按照要求设定绩效目标。2018年政府性基金预算、国有资本经营预算中有402.65亿元未设立绩效目标，1个投资专项未填报绩效目标表［16］。其次，部分绩效指标没有细化、量化。2020年，17个部门和245家所属单位的587个项目绩效目标不完整、未经细化或脱离实际情况［17］。最后，绩效目标管理程序不规范，部分绩效目标未按要求审核。2018年，9个项目量化指标超出项目内容或低于已完成情况；12项专项转移支付的绩效目标未与预算同步下达。［16］
 
 2．评价标准尚未统一。政府的财政支出不同于一般企业财务支出，有其特殊性，即经济效益并不是支出活动的首要目标，且财政支出并不是完全处于市场机制的范围内。政府的财政支出有很大一部分以满足人民群众的切实需求为主要目的，这些成果是无法用其产生的经济效益衡量的。除此之外，政府财政支出并不是单一的、针对某一特定领域的支出，而是具有多样性、广泛性的支出，其工作成效不仅具有经济效益，而且具有社会效益，社会效益往往是无法用短期经济指标衡量的。根据项目的规划和时间的长短，项目效益的实现也不是一次性的，既有直接效益，也有间接效益。这就导致政府财政的预算绩效管理评价体系指标设置面临较大困难，财政部门难以采用静态指标对政府财政支出进行简单、直接的评价。
 
@@ -120,7 +122,7 @@ DOI:10.16637/j.cnki.23-1360/d.2023.01.017
 
 ## 四、政府预算绩效管理的优化路径
 
-针对我国政府预算绩效管理上存在的上述问题，亟须从法律和制度层面入手，调整立法宗旨，建立健全法律体系，完善评价和监督制度，推动政府预算绩效管理制度化、法治化[19-21]。
+针对我国政府预算绩效管理上存在的上述问题，亟须从法律和制度层面入手，调整立法宗旨，建立健全法律体系，完善评价和监督制度，推动政府预算绩效管理制度化、法治化［19-21］。
 
 ### （一）提高对政府预算绩效管理工作的认同
 
@@ -148,23 +150,23 @@ DOI:10.16637/j.cnki.23-1360/d.2023.01.017
 
 ## 参考文献：
 
-［1］郑涌，郭灵康，扎实推进事前评估和事后评价制度落地生效［J］．中国行政管理，2021，（2）：158-159．
+［1］郑涌，郭灵康．扎实推进事前评估和事后评价制度落地生效［J］．中国行政管理，2021，（2）：158-159．
 
 ［2］陈少强，梁煜欣．预算绩效管理的里程碑［J］．中国发展观察，2018，（Z2）：42-46．
 
-［3］郑涌，郭灵康．全面实施预算绩效管理：理论、制度、案例及经验[M]北京：中国财政经济出版社，2021．
+［3］郑涌，郭灵康．全面实施预算绩效管理：理论、制度、案例及经验［M］．北京：中国财政经济出版社，2021．
 
 ［4］马海涛，曹堂哲，王红梅．预算绩效管理理论与实践［M］．北京：中国财政经济出版社，2020．
 
-［5］王海涛．我国预算绩效管理改革研究[D]北京：财政部财政科学研究所博士学位论文，2014．
+［5］王海涛．我国预算绩效管理改革研究［D］．北京：财政部财政科学研究所博士学位论文，2014．
 
-［6］胡晓东，尹艳红，陈珏如，中国政府预算绩效管理研究述评-基于2003-2017年文献［J］．甘肃行政学院学报，2018,(3):47-55+127.
+［6］胡晓东，尹艳红，陈珏如．中国政府预算绩效管理研究述评-基于2003-2017年文献［J］．甘肃行政学院学报，2018,(3):47-55+127.
 
-［7］王莉莉．中国政府预算绩效管理制度优化与国际经验借鉴研究[D]．保定：河北大学博士学位论文，2019．
+［7］王莉莉．中国政府预算绩效管理制度优化与国际经验借鉴研究［D］．保定：河北大学博士学位论文，2019．
 
-［8］童伟，制度构建与模式创新背景的绩效预算监督体系催生［J］．改革，2013，（3）：60-65．
+［8］童伟．制度构建与模式创新背景的绩效预算监督体系催生［J］．改革，2013，（3）：60-65．
 
-［9］杨彦柱，多中心治理下政府预算绩效管理问题探究［J］．财会通讯，2020，（18）：172-176．
+［9］杨彦柱．多中心治理下政府预算绩效管理问题探究［J］．财会通讯，2020，（18）：172-176．
 
 ［10］马骏．新绩效预算［J］．中央财经大学学报，2004，（8）：1-6．
 
@@ -194,19 +196,19 @@ DOI:10.16637/j.cnki.23-1360/d.2023.01.017
 
 （责任编辑：温美荣 于丽春）
 
-Development Trend and Optimization Path of China's Government Budget
+## Development Trend and Optimization Path of China's Government Budget
 
-Performance Management
+# Performance Management
 
 JIAO Fangyi',LI Ting2
 
-### (1.College of Economics and Business Management, Heilongjiang University,Harbin,Heilongjiang,150080;
+(1.College of Economics and Business Management, Heilongjiang University,Harbin,Heilongjiang,150080;
 
-### 2.a. College of Law, Heilongjiang University,Harbin, Heilongjiang, 150080; b. Heilongjiang Supervision
+2.a.College of Law, Heilongjiang University, Harin,Heilongjiang, 150080; b. Heilongjiang Supervision
 
-Bureau of the Ministry of Finance,Harbin,Heilongjiang,150010)
+Bureau of the Ministry of Finance, Harbin,Heilongjiang,150010)
 
-Abstract: As an important part of government performance, budget performance management is not only an important symbol of the establishment of a modern financial system, but also an effective means to improve the national governance capacity and level. Since the beginning of the 21st century,China's government budget performance management has attracted higher attention from the academic community at the theoretical level,and has achieved remarkable results in top-level design, pilot exploration,and institutional security at the practical level,and has gradually shown the development trend of value-oriented service orientation, public orientation of evaluation subjects,livelihood orientation of evaluation contents, and normative orientation of evaluation procedures. In view of the large budgeting scale the long capital chain,and the multiple involving subjects of our government performance management budget,as well as its deficiencies in the concept of budget performance,legal and institutional support, evaluation system,performance supervision and other aspects, it is urgent to adust the legislative purpose, establish and improve the legal system, and improve the evaluation and supervision system from the legal and institutional level, so as to promote the institutionalization and legalization of our government budget performance management.
+Abstract: As an important part of government performance, budget performance management is not only an important symbol of the establishment of a modernfinancial system,but also an effective means to improve the national governance capacity and level. Since the beginning of the 21st century,China's government budget performance management has attracted higher attention from the academic community at the theoretical level,and has achieved remarkable results in top-level design, pilot exploration, and institutional security at the practical level,and has gradually shown the development trend of value-oriented service orientation, public orientation of evaluation subjects, livelihood orientation of evaluation contents,and normative orientation of evaluation procedures.In view of the large budgeting scale the long capital chain, and the multiple involving subjects of our government performance management budget, as well as its deficiencies in the concept of budget performance,legal and institutional support, evaluation system, performance supervision and other aspects, it is urgent to adjust the legislative purpose, establish and improve the legal system,and improve the evaluation and supervision system from the legal and insttutional level, so as to promote the institutionalization and legalization of our government budget performance management.
 
-Key words: government performance, budget performance management, institutionalization,legalization
+Key words: government performance, budget performance management,institutinalization, legalization
 

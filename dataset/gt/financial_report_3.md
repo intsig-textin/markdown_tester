@@ -1,4 +1,4 @@
-Liability for Unpaid Claim and Claim Adjustment Expenses
+## Liability for Unpaid Claim and Claim Adjustment Expenses
 
 The following table presents a reconciliation between beginning and ending claim and claim adjustment expense reserves,including claim and claim adjustment expense reserves of the Life & Group segment.
 
@@ -85,7 +85,7 @@ For the six months ended June 30
 
 to amounts related to retroactive reinsurance deferred gain accounting,the loss on the Excess Workers' Compensation Loss Portfolio Transfer, uncollectible reinsurance and benefit expenses related to future policy benefits,which are not reflected in te table above.
 
-Net Prior Year Development
+## Net Prior Year Development
 
 Changes in estimates of claim and claim adjustment expense reserves,net of reinsurance, for prior years are defined as net prior development recorded for the Specialty,Commercial, International and Corporate & Other segments.
 
@@ -137,5 +137,5 @@ Changes in estimates of claim and claim adjustment expense reserves,net of reins
 <td colspan="1" rowspan="1">&#36; 14</td>
 </tr></table>
 
-# Unfavorable development of &#36;64 million was recorded within the Corporate & Other segment for the three and six months ended June 30, 2022 largely associated with legacy mass tort abuse claims, including the recent Diocese of Rochester proposed settlement.Unfavorable development of &#36;40 million was recorded within the Corporate & Other segment for the three and six months ended June 30, 2021 due to legacy mass tort exposures, primarily related to abuse.
+Unfavorable development of &#36;64 million was recorded within the Corporate & Other segment for the three and six months ended June 30, 2022 largely associated with legacy mass tort abuse claims, including the recent Diocese of Rochester proposed settlement.Unfavorable development of &#36;40 million was recorded within the Corporate & Other segment for the three and six months ended June 30, 2021 due to legacy mass tort exposures, primarily related to abuse.
 

@@ -1,4 +1,4 @@
-9.Taxation
+## 9.Taxation
 
 <table border="1" cellspacing="0" cellpadding="6" align="center">
 <tbody>
@@ -123,7 +123,7 @@
 
 There are no current tax liabilities as at January 31, 2015 (2014: Nil; 2013: Nil).
 
-10. Loss per share
+## 10. Loss per share
 
 The loss per share for continuing operations has been calculated using the loss for the year attributable to the owners of the parent of £11,301,000 (year ended January 31, 2014: loss of £6,093,000; year ended January 31, 2013: loss of £4,225,000) and dividing this by the weighted average number of ordinary shares in issue during the year to January 31, 2015: 39,599,222 (year ended January 31, 2014: 20,509,631; year ended January 31, 2013: 15,809,445). The numbers of ordinary shares in issue were updated retrospectively to give effect to the share consolidation and subdivision which occurred on 3 July 2014(Note 19).
 

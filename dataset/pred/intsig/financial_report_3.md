@@ -1,28 +1,26 @@
-Liability for Unpaid Claim and Claim Adjustment Expenses
+## Liability for Unpaid Claim and Claim Adjustment Expenses
 
-The following table presents a reconciliation between beginning and ending claim and claim adjustment expense reserves,including claim and claim adjustment expense reserves of the Life & Group segment.
-
-For the six months ended June 30
+The followig table presents a reconciliation between beginning and ending claim and claim adjustment expense reserves,including claim and claim adjustment expense reserves of the Life & Group segment.
 
 
 <table border="1" ><tr>
-<td colspan="1" rowspan="1">(In millions)</td>
+<td colspan="1" rowspan="1">For the six months ended June 30(In millions)</td>
 <td colspan="1" rowspan="1">2022</td>
 <td colspan="1" rowspan="1">2021</td>
 </tr><tr>
-<td colspan="1" rowspan="1">Reserves,beginning of year:</td>
+<td colspan="1" rowspan="1">Reserves, beginning of year:</td>
 <td colspan="1" rowspan="1"></td>
 <td colspan="1" rowspan="1"></td>
 </tr><tr>
 <td colspan="1" rowspan="1">Gross</td>
-<td colspan="1" rowspan="1">S 24,174</td>
+<td colspan="1" rowspan="1">&#36; 24,174</td>
 <td colspan="1" rowspan="1">&#36; 22,706</td>
 </tr><tr>
 <td colspan="1" rowspan="1">Ceded</td>
 <td colspan="1" rowspan="1">4,969</td>
 <td colspan="1" rowspan="1">4,005</td>
 </tr><tr>
-<td colspan="1" rowspan="1">Net reserves,beginning of year</td>
+<td colspan="1" rowspan="1">Net reserves, beginning of year</td>
 <td colspan="1" rowspan="1">19,205</td>
 <td colspan="1" rowspan="1">18,701</td>
 </tr><tr>
@@ -70,24 +68,24 @@ For the six months ended June 30
 <td colspan="1" rowspan="1">(222)</td>
 <td colspan="1" rowspan="1">(5)</td>
 </tr><tr>
-<td colspan="1" rowspan="1">Net reserves,end of period</td>
+<td colspan="1" rowspan="1">Net reserves, end of period</td>
 <td colspan="1" rowspan="1">19,403</td>
 <td colspan="1" rowspan="1">18,745</td>
 </tr><tr>
-<td colspan="1" rowspan="1">Ceded reserves,end of period</td>
+<td colspan="1" rowspan="1">Ceded reserves, end of period</td>
 <td colspan="1" rowspan="1">5,156</td>
 <td colspan="1" rowspan="1">4,735</td>
 </tr><tr>
-<td colspan="1" rowspan="1">Gross reserves,end of period</td>
+<td colspan="1" rowspan="1">Gross reserves, end of period</td>
 <td colspan="1" rowspan="1">&#36; 24,559</td>
 <td colspan="1" rowspan="1">&#36; 23,480</td>
 </tr></table>
 
-to amounts related to retroactive reinsurance deferred gain accounting,the loss on the Excess Workers' Compensation Loss Portfolio Transfer, uncollectible reinsurance and benefit expenses related to future policy benefits,which are not reflected in te table above.
+(1) Total net incurred above does not agree to Insurance claims and policyholders' benefits as reflected on the Condensed Consolidated Statements of Operations due to amounts related to retroactive reinsurance deferred gain accounting, the loss on the Excess Workers' Compensation Loss Portfolio Transfer, uncollectible reinsurance and benefit expenses related to future policy benefits, which are not reflected in the table above.
 
-Net Prior Year Development
+# Net Prior Year Development
 
-Changes in estimates of claim and claim adjustment expense reserves,net of reinsurance, for prior years are defined as net prior development recorded for the Specialty,Commercial, International and Corporate & Other segments.
+Changes in estimates of claim and claim adjustment expense reserves, net ofreinsurance, for prior years are defined as net prior year loss reserve development (development). These changes can be favorable or unfavorable. The following table presents development recorded for the Specialty,Commercial, International and Corporate & Other segments.
 
 
 <table border="1" ><tr>
@@ -107,7 +105,7 @@ Changes in estimates of claim and claim adjustment expense reserves,net of reins
 <td colspan="1" rowspan="1"></td>
 </tr><tr>
 <td colspan="1" rowspan="1">Specialty</td>
-<td colspan="1" rowspan="1">&#36; (10)</td>
+<td colspan="1" rowspan="1">S (10)</td>
 <td colspan="1" rowspan="1">&#36; (10)</td>
 <td colspan="1" rowspan="1">&#36; (20)</td>
 <td colspan="1" rowspan="1">&#36; (25)</td>
@@ -131,11 +129,11 @@ Changes in estimates of claim and claim adjustment expense reserves,net of reins
 <td colspan="1" rowspan="1">40</td>
 </tr><tr>
 <td colspan="1" rowspan="1">Total pretax (favorable) unfavorable development</td>
-<td colspan="1" rowspan="1">&#36; 27</td>
+<td colspan="1" rowspan="1">S 27</td>
 <td colspan="1" rowspan="1">&#36; 29</td>
 <td colspan="1" rowspan="1">&#36; 15</td>
 <td colspan="1" rowspan="1">&#36; 14</td>
 </tr></table>
 
-# Unfavorable development of &#36;64 million was recorded within the Corporate & Other segment for the three and six months ended June 30, 2022 largely associated with legacy mass tort abuse claims, including the recent Diocese of Rochester proposed settlement.Unfavorable development of &#36;40 million was recorded within the Corporate & Other segment for the three and six months ended June 30, 2021 due to legacy mass tort exposures, primarily related to abuse.
+Unfavorable development of &#36;64 million was recorded within the Corporate & Other segment for the three and six months ended June 30,2022 largely associated with legacy mass tort abuse claims, includin the recent Diocese of Rochester proposed settlement.Unfavorable development of &#36;40 million was recorded within the Corporate & Other segment for the three and six months ended June 30,2021 due to legacy mass tort exposures, primarily related to abuse.
 

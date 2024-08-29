@@ -1,5 +1,4 @@
-SEAGATE TECHNOLOGY HOLDINGS PLC
-PARENT COMPANY STATEMENT OF COMPREHENSIVE INCOME
+# SEAGATE TECHNOLOGY HOLDINGS PLC PARENT COMPANY STATEMENT OF COMPREHENSIVE INCOME
 for the period ended 2 July 2021
 
 <table style="border-collapse: collapse; width: 100%;" border="1"><colgroup><col style="width: 39.3173%;"><col style="width: 31.6003%;"><col style="width: 29.0824%;"></colgroup>
