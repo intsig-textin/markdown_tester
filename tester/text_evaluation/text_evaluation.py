@@ -1,5 +1,5 @@
-from textin_tester.tester.table_evaluation.html_to_metric.metric import TEDS
-from textin_tester.utils import *
+from tester.table_evaluation.html_to_metric.metric import TEDS
+from utils import *
 default_html = "<html><body><table></table></body></html>"
 
 

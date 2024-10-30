@@ -3,7 +3,7 @@ import html
 import unicodedata
 import sys
 import re
-from textin_tester.tester.table_evaluation.html_to_metric.metric import TEDS
+from tester.table_evaluation.html_to_metric.metric import TEDS
 import Levenshtein
 
 sys.path.append(os.path.dirname(__file__) + "/../../table_evaluation")

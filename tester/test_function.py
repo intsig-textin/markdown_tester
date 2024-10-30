@@ -1,7 +1,7 @@
-from textin_tester.tester.table_evaluation.md_to_metric.md_metric import MdTester
-from textin_tester.tester.text_evaluation.text_evaluation import TextEval
-from textin_tester.tester.order_evaluation.order_evaluation import OrderEval
-from textin_tester.tester.table_converter.converter import TableConverter
+from tester.table_evaluation.md_to_metric.md_metric import MdTester
+from tester.text_evaluation.text_evaluation import TextEval
+from tester.order_evaluation.order_evaluation import OrderEval
+from tester.table_converter.converter import TableConverter
 import statistics
 
 

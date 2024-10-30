@@ -1,4 +1,4 @@
-from textin_tester.utils import *
+from utils import *
 import re
 
 

@@ -2,8 +2,8 @@ import os
 import statistics
 import pandas as pd
 import argparse
-from textin_tester.tester.test_function import TestFunction
-from textin_tester.utils import create_dict_from_folders, create_radar_chart
+from tester.test_function import TestFunction
+from utils import create_dict_from_folders, create_radar_chart
 
 pd.set_option('display.unicode.east_asian_width', True)
 pd.set_option('display.unicode.ambiguous_as_wide', True)
