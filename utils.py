@@ -111,7 +111,7 @@ def create_radar_chart(df, title, filename):
     plt.legend(loc='upper right', bbox_to_anchor=(0.1, 0.1))
 
     # 选择支持中文字符的字体
-    font_dirs = ["fonts"]
+    font_dirs = ["font"]
     font_files = font_manager.findSystemFonts(fontpaths=font_dirs)
     for font_file in font_files:
         font_manager.fontManager.addfont(font_file)
